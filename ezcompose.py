@@ -2,7 +2,7 @@ import os
 #os.system("clear")
 
 print("##############################################################")
-print("################ Bienvenides a EZCompose #####################")
+print("################ Bienvenidos a EZCompose #####################")
 print("##############################################################\n")
 
 print("Este programa te ayudará a crear un archivo docker-compose.yml\n")
